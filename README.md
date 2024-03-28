@@ -33,6 +33,8 @@ The objective of this project is to explore and visualize data on forest fires i
 - Pandas
 - Seaborn
 - Matplotlib
+- Kaggle
+- Jupyter Notebook
 
 ### How to Run the Notebook
 
