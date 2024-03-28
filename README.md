@@ -45,5 +45,5 @@ To run this notebook on Google Colab, follow these steps:
 
 ### Author
 
-This project was developed by [Your Name].
+This project was developed by Matheus Leite.
 
